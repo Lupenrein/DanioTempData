@@ -1,6 +1,6 @@
 # Dataset on Temperature Dependency of Zebrafish Early Development 
 
-All data is compressed in a zip folder DanioTemp  that contains two directories, highres and behavior, and the file lowres.csv . All data sets are provided inas comma separated plain textvalue files.
+All data is available in zip compressed form, highres.zip, lowres.zip and a behavior folder with subdirectories according to age and temperature containing the files of the single replicates. All data sets are provided as comma separated plain textvalue files.
 
 ## Experiment for high resolution development time series (highres)
 
